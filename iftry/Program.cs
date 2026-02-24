@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            double a = 2, b = 4, c = 4.5, d = 1.5;
         }
     }
 }
