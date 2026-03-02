@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="iftry/iftry.csproj" />
+  <Project Path="TestIf/TestIf.csproj" Id="2228323c-bf78-47ed-a84d-21e0fe4206c8" />
 </Solution>
